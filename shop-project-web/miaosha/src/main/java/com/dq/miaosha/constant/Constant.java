@@ -18,5 +18,6 @@ public interface Constant {
     String AAA = "list";
     String CCC = "last";
     String BBB = "other";
+    String DDD = "first";
 
 }
