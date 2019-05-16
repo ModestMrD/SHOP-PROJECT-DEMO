@@ -15,5 +15,6 @@ public interface Constant {
     //活动
     String SECKILL_PRE = "seckill:";
 
+    String AAA = "list";
 
 }
