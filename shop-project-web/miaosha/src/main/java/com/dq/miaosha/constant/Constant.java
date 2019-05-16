@@ -16,5 +16,6 @@ public interface Constant {
     String SECKILL_PRE = "seckill:";
 
     String AAA = "list";
+    String BBB = "other";
 
 }
