@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fastdfs" />
+        <module name="miaosha" />
+        <module name="msgcode" />
+        <module name="rabbitmq" />
+        <module name="redis" />
+        <module name="shop-cart-api" />
+        <module name="shop-cart-service" />
+        <module name="shop-email-api" />
+        <module name="shop-email-service" />
+        <module name="shop-item-api" />
+        <module name="shop-item-service" />
+        <module name="shop-login-api" />
+        <module name="shop-login-background" />
+        <module name="shop-login-service" />
+        <module name="shop-msg-api" />
+        <module name="shop-msg-service" />
+        <module name="shop-pay-background" />
+        <module name="shop-product-api" />
+        <module name="shop-product-background" />
+        <module name="shop-product-common" />
+        <module name="shop-product-entity" />
+        <module name="shop-product-mapper" />
+        <module name="shop-product-service" />
+        <module name="shop-project-index" />
+        <module name="shop-project-web" />
+        <module name="shop-search-api" />
+        <module name="shop-search-background" />
+        <module name="shop-search-service" />
+        <module name="spring-data-redis" />
+        <module name="swagger" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fastdfs" target="1.8" />
+      <module name="huangguizhao-mybatis-generator" target="1.8" />
+      <module name="miaosha" target="1.8" />
+      <module name="msgcode" target="1.8" />
+      <module name="oa1810" target="1.8" />
+      <module name="rabbitmq" target="1.8" />
+      <module name="redis" target="1.8" />
+      <module name="shop-cart-api" target="1.8" />
+      <module name="shop-cart-service" target="1.8" />
+      <module name="shop-email-api" target="1.8" />
+      <module name="shop-email-service" target="1.8" />
+      <module name="shop-item-api" target="1.8" />
+      <module name="shop-item-service" target="1.8" />
+      <module name="shop-login-api" target="1.8" />
+      <module name="shop-login-background" target="1.8" />
+      <module name="shop-login-service" target="1.8" />
+      <module name="shop-msg-api" target="1.8" />
+      <module name="shop-msg-service" target="1.8" />
+      <module name="shop-pay-background" target="1.8" />
+      <module name="shop-product-api" target="1.8" />
+      <module name="shop-product-background" target="1.8" />
+      <module name="shop-product-commom" target="1.8" />
+      <module name="shop-product-common" target="1.8" />
+      <module name="shop-product-entity" target="1.8" />
+      <module name="shop-product-mapper" target="1.8" />
+      <module name="shop-product-service" target="1.8" />
+      <module name="shop-project" target="1.8" />
+      <module name="shop-project-api" target="1.8" />
+      <module name="shop-project-basic" target="1.8" />
+      <module name="shop-project-index" target="1.8" />
+      <module name="shop-project-service" target="1.8" />
+      <module name="shop-project-temp" target="1.8" />
+      <module name="shop-project-web" target="1.8" />
+      <module name="shop-search-api" target="1.8" />
+      <module name="shop-search-background" target="1.8" />
+      <module name="shop-search-service" target="1.8" />
+      <module name="spring-data-redis" target="1.8" />
+      <module name="swagger" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

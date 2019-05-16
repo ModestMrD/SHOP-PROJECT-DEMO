@@ -1,0 +1,9 @@
+spring:
+  mail:
+    host: smtp.163.com
+    username: sky349974952@163.com
+    password: jellyfish1990
+    default-encoding: utf-8
+
+mail:
+  from: sky349974952@163.com

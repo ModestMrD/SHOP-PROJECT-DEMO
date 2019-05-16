@@ -1,0 +1,14 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:mysql:///miaosha
+    username: root
+    password: 123
+    driver-class-name: com.mysql.jdbc.Driver
+  redis:
+    host: 192.168.48.129
+    password: 123
+
+mybatis:
+  mapper-locations: classpath:/mapper/*.xml

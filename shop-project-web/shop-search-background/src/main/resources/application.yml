@@ -1,0 +1,20 @@
+spring:
+  data:
+    solr:
+      host: http://192.168.48.129:8080/solr
+  thymeleaf:
+    cache: false
+  rabbitmq:
+    host: 192.168.48.129
+    port: 5672
+    username: dq
+    password: 123
+    virtual-host: /java1809
+dubbo:
+  application:
+    name: background
+  registry:
+    protocol: zookeeper
+    address: 192.168.48.129:2181
+server:
+  port: 9191

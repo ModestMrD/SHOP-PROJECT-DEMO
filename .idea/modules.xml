@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-temp/fastdfs/fastdfs.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-temp/fastdfs/fastdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-web/miaosha/miaosha.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-web/miaosha/miaosha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-temp/msgcode/msgcode.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-temp/msgcode/msgcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-temp/rabbitmq/rabbitmq.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-temp/rabbitmq/rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-temp/redis/redis.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-temp/redis/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-api/shop-cart-api/shop-cart-api.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-api/shop-cart-api/shop-cart-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-service/shop-cart-service/shop-cart-service.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-service/shop-cart-service/shop-cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-api/shop-email-api/shop-email-api.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-api/shop-email-api/shop-email-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-service/shop-email-service/shop-email-service.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-service/shop-email-service/shop-email-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-api/shop-item-api/shop-item-api.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-api/shop-item-api/shop-item-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-service/shop-item-service/shop-item-service.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-service/shop-item-service/shop-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-api/shop-login-api/shop-login-api.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-api/shop-login-api/shop-login-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-web/shop-login-background/shop-login-background.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-web/shop-login-background/shop-login-background.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-service/shop-login-service/shop-login-service.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-service/shop-login-service/shop-login-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-api/shop-msg-api/shop-msg-api.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-api/shop-msg-api/shop-msg-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-service/shop-msg-service/shop-msg-service.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-service/shop-msg-service/shop-msg-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-web/shop-pay-background/shop-pay-background.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-web/shop-pay-background/shop-pay-background.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-api/shop-product-api/shop-product-api.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-api/shop-product-api/shop-product-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-web/shop-product-background/shop-product-background.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-web/shop-product-background/shop-product-background.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-basic/shop-product-common/shop-product-common.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-basic/shop-product-common/shop-product-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-basic/shop-product-entity/shop-product-entity.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-basic/shop-product-entity/shop-product-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-basic/shop-product-mapper/shop-product-mapper.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-basic/shop-product-mapper/shop-product-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-service/shop-product-service/shop-product-service.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-service/shop-product-service/shop-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-api/shop-project-api.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-api/shop-project-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-basic/shop-project-basic.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-basic/shop-project-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-web/shop-project-index/shop-project-index.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-web/shop-project-index/shop-project-index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-service/shop-project-service.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-service/shop-project-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-temp/shop-project-temp.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-temp/shop-project-temp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-web/shop-project-web.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-web/shop-project-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-api/shop-search-api/shop-search-api.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-api/shop-search-api/shop-search-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-web/shop-search-background/shop-search-background.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-web/shop-search-background/shop-search-background.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-service/shop-search-service/shop-search-service.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-service/shop-search-service/shop-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-service/spring-data-redis/spring-data-redis.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-service/spring-data-redis/spring-data-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-project/shop-project-temp/swagger/swagger.iml" filepath="$PROJECT_DIR$/../shop-project/shop-project-temp/swagger/swagger.iml" />
+    </modules>
+  </component>
+</project>

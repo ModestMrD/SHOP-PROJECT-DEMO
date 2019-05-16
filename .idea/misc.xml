@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../shop-project/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-api/shop-product-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-basic/shop-product-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-basic/shop-product-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-basic/shop-product-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-service/shop-product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-web/shop-product-background/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-temp/fastdfs/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-web/shop-project-index/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-temp/swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-service/shop-search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-web/shop-search-background/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-service/shop-item-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-service/shop-msg-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-service/shop-email-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-temp/msgcode/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-web/shop-login-background/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-service/shop-login-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-service/shop-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-web/shop-pay-background/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-web/miaosha/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../shop-project/shop-project-basic/shop-product-commom/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/../shop-project/out" />
+  </component>
+</project>

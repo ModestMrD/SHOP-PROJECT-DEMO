@@ -1,0 +1,11 @@
+dubbo:
+  application:
+    name: background
+  registry:
+    protocol: zookeeper
+    address: 192.168.48.129:2181
+server:
+  port: 8080
+spring:
+  thymeleaf:
+    cache: false
